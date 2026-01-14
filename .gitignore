@@ -1,0 +1,17 @@
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Editor / OS
+.vscode/
+.DS_Store
+*.log
+.env
+secrets.json
